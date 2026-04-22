@@ -1,0 +1,16 @@
+query,expected_type,predicted_type,routing_correct,answer_similarity
+What are high-risk AI systems?,factual,synthesis,False,0.795
+What are penalties under EU AI Act?,factual,synthesis,False,0.67
+What does the US executive order require?,factual,factual,True,0.615
+What is frontier model threshold?,factual,factual,True,0.772
+What is the role of EU AI Office?,factual,synthesis,False,0.733
+Compare US and EU AI regulation approaches,synthesis,synthesis,True,0.711
+What are common themes across AI regulations?,synthesis,synthesis,True,0.62
+How do different countries regulate AI?,synthesis,synthesis,True,0.467
+What are challenges in global AI regulation?,synthesis,synthesis,True,0.755
+Compare penalties across regions,synthesis,factual,False,0.814
+What is reinforcement learning?,out_of_scope,out_of_scope,True,0.0
+Who invented AI?,out_of_scope,factual,False,0.0
+Explain neural networks,out_of_scope,out_of_scope,True,0.0
+What is blockchain?,out_of_scope,out_of_scope,True,0.0
+What is Python programming?,out_of_scope,out_of_scope,True,0.0
